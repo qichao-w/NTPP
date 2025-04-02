@@ -1,7 +1,5 @@
-# 🦜 Parrot: Seamless Spoken Dialogue Interaction with Double-Channel Large Language Models
+# Improving Conversational Capabilities of Speech Language Models via Generative Dual-channel Spoken Dialogue Learning
 
-## Abstract
-We present Parrot, an innovative spoken dialogue language model with a unique pre-training and supervised fine-tuning (SFT) pipeline. Our approach uses both single-channel audio data and double-channel spoken dialogue data to train a textless speech language model.
 
 <!-- ![Parrot](assert/audio-introduction.png) -->
 <img src="assert/audio-introduction.png" alt="Parrot" width="500"/>
